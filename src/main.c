@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 #include "manager.h"
-#include "student.h"
 #include "utils.h"
-#include "vec.h"
 
 int main() {
     Manager manager = Manager_new();
